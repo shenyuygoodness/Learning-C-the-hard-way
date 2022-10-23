@@ -4,4 +4,4 @@ Code written in this repository is done on nano using linux terminal(ubuntu). Ge
 For each exercise a make file is generated. 
 
 This exercises are based on my journey as I learn C and share the experience on github.
-As I move progress I will update this Readme file as to my current learnings. 
+As I progress I will update this Readme file as to my current learnings. 
